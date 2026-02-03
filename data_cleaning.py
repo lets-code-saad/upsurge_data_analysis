@@ -9,7 +9,7 @@ products_table = pd.read_csv("/")
 
 # Cleaning
 
-# Handle missing values (justify your choices)
+# Handling
 
 # Fix data types
 
