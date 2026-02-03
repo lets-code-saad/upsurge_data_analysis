@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "darkMode": true,
+  "gridEnabling": false,
+  "detailLevel": "All",
+  "tablePositions": [
+    {
+      "name": "customers",
+      "schemaName": "public",
+      "x": 231.39556981646828,
+      "y": -8.753634982638914
+    },
+    {
+      "name": "products",
+      "schemaName": "public",
+      "x": 231.39556981646828,
+      "y": 232.21117001488096
+    },
+    {
+      "name": "orders",
+      "schemaName": "public",
+      "x": 722.742660280258,
+      "y": 44.61285497271808
+    }
+  ],
+  "tableGroupCollapseStates": [],
+  "stickyNoteLayouts": [],
+  "referencePaths": []
+}
